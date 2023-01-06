@@ -21,7 +21,7 @@ react-textfit
 
 ## Installation
 ```bash
-npm install react-textfit --save
+npm install @ayushmw/react-textfit --save
 ```
 
 ## Usage
